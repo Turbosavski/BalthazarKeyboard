@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source C:\Users\turbo\Documents\KiCad\BalthazarPSU\BalthazarKeyboard.sch)
-    (date "4/15/2020 10:49:12 AM")
+    (source C:\Users\turbo\Desktop\github\Balthazar\BalthazarKeyboard\BalthazarKeyboard.sch)
+    (date "5/22/2020 9:09:44 PM")
     (tool "Eeschema (5.1.5)-3")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1851,9 +1851,9 @@
         (pin (num 11) (name D8) (type BiDi))
         (pin (num 12) (name D9) (type BiDi))
         (pin (num 13) (name D10) (type BiDi))
-        (pin (num 14) (name D11) (type BiDi))
-        (pin (num 15) (name D12) (type BiDi))
-        (pin (num 16) (name D13) (type BiDi))
+        (pin (num 14) (name D16) (type BiDi))
+        (pin (num 15) (name D14) (type BiDi))
+        (pin (num 16) (name D15) (type BiDi))
         (pin (num 17) (name A0) (type BiDi))
         (pin (num 18) (name A1) (type BiDi))
         (pin (num 19) (name A2) (type BiDi))

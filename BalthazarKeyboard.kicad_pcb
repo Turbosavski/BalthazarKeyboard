@@ -794,9 +794,9 @@
       (net 92 row4))
     (pad 1 thru_hole rect (at -7.62 12.7 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 74 col10))
-    (model ${KISYS3DMOD}/Module.3dshapes/ProMicro_Original+SPH1.5.wrl
-      (offset (xyz -7.5 12.5 0))
-      (scale (xyz 0.4 0.4 0.4))
+    (model ${KIPRJMOD}/ProMicro_Original+SPH1.5.wrl
+      (offset (xyz -8 12.5 0))
+      (scale (xyz 0.4 0.39 0.4))
       (rotate (xyz 0 0 0))
     )
   )
