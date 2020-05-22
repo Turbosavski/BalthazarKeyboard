@@ -1,6 +1,8 @@
 # balthazar
 Open-hardware laptop computer modules
+
 Electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access
+
 KiCad 5.1.5 files
 
 # balthazarKeyboard
